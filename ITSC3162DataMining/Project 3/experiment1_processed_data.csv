@@ -1,0 +1,395 @@
+celebrity_age_during_season,celebrity_industry,season,average_score
+32.0,TV Personality,1.0,6.125
+42.0,Athlete,1.0,5.0
+35.0,Model,1.0,7.9375
+32.0,Singer/Rapper,1.0,7.075
+50.0,Actor/Actress,1.0,8.083333333333334
+29.0,Actor/Actress,1.0,7.125
+46.0,Sports Broadcaster,2.0,4.25
+42.0,Actor/Actress,2.0,6.75
+44.0,News Anchor,2.0,7.666666666666667
+35.0,Singer/Rapper,2.0,4.411764705882353
+39.0,Actor/Actress,2.0,7.65
+66.0,Actor/Actress,2.0,7.208333333333333
+42.0,Actor/Actress,2.0,8.017857142857142
+26.0,Athlete,2.0,9.1875
+43.0,Athlete,2.0,7.534375
+29.0,Singer/Rapper,2.0,9.134375
+37.0,TV Personality,3.0,4.0
+31.0,Model,3.0,6.625
+54.0,Actor/Actress,3.0,6.666666666666667
+42.0,Actor/Actress,3.0,8.0625
+25.0,Singer/Rapper,3.0,8.1
+35.0,Singer/Rapper,3.0,7.0
+62.0,TV Personality,3.0,6.785714285714286
+25.0,Actor/Actress,3.0,8.328125
+30.0,Actor/Actress,3.0,8.63888888888889
+32.0,Actor/Actress,3.0,8.965
+37.0,Athlete,3.0,8.59
+41.0,Model,4.0,6.625
+28.0,Beauty Pagent,4.0,6.666666666666667
+50.0,TV Personality,4.0,6.3125
+44.0,Athlete,4.0,5.15
+39.0,Model,4.0,7.416666666666667
+59.0,Actor/Actress,4.0,6.375
+45.0,Singer/Rapper,4.0,6.3125
+42.0,Actor/Actress,4.0,8.097222222222221
+29.0,Athlete,4.0,8.73
+30.0,Singer/Rapper,4.0,8.9125
+24.0,Athlete,4.0,8.9925
+29.0,Model,5.0,5.25
+22.0,Model,5.0,7.0
+65.0,Singer/Rapper,5.0,5.75
+30.0,Athlete,5.0,6.9375
+49.0,TV Personality,5.0,6.8
+23.0,Actor/Actress,5.0,9.0
+56.0,Actor/Actress,5.0,8.142857142857142
+38.0,Actor/Actress,5.0,8.125
+35.0,Actor/Actress,5.0,8.430555555555555
+47.0,Singer/Rapper,5.0,8.1125
+32.0,Singer/Rapper,5.0,9.08
+32.0,Racing Driver,5.0,8.885
+53.0,Magician,6.0,5.5
+34.0,Athlete,6.0,5.0
+49.0,Actor/Actress,6.0,6.083333333333333
+43.0,Radio Personality,6.0,6.125
+62.0,Actor/Actress,6.0,7.6
+42.0,Actor/Actress,6.0,7.416666666666667
+34.0,Actor/Actress,6.0,8.089285714285714
+21.0,Singer/Rapper,6.0,8.4375
+35.0,Actor/Actress,6.0,7.75
+34.0,Actor/Actress,6.0,8.2875
+33.0,Athlete,6.0,8.7375
+36.0,Athlete,6.0,9.425
+43.0,Comedian,7.0,4.0
+50.0,Actor/Actress,7.0,6.125
+27.0,TV Personality,7.0,5.9375
+31.0,Athlete,7.0,7.0
+41.0,TV Personality,7.0,5.96875
+40.0,Singer/Rapper,7.0,7.425
+82.0,Actor/Actress,7.0,5.791666666666667
+61.0,Actor/Actress,7.0,7.303571428571429
+34.0,Athlete,7.0,7.484375
+18.0,Actor/Actress,7.0,7.625
+29.0,Singer/Rapper,7.0,8.1125
+35.0,Athlete,7.0,8.0375
+37.0,TV Personality,7.0,8.9875
+50.0,Singer/Rapper,8.0,5.875
+38.0,Actor/Actress,8.0,6.083333333333333
+30.0,TV Personality,8.0,5.75
+58.0,Entrepreneur,8.0,4.647058823529412
+52.0,Actor/Actress,8.0,6.9
+34.0,TV Personality,8.0,5.291666666666667
+50.0,Athlete,8.0,6.571428571428571
+29.0,Singer/Rapper,8.0,7.71875
+34.0,Singer/Rapper,8.0,8.527777777777779
+39.0,Athlete,8.0,7.225
+26.0,TV Personality,8.0,8.875
+33.0,Actor/Actress,8.0,9.227272727272727
+17.0,Athlete,8.0,8.840909090909092
+34.0,Actor/Actress,9.0,5.0
+42.0,Singer/Rapper,9.0,5.0
+46.0,Model,9.0,5.625
+62.0,Politician,9.0,5.416666666666667
+45.0,Actor/Actress,9.0,6.0
+39.0,Athlete,9.0,5.75
+27.0,Athlete,9.0,7.45
+33.0,Actor/Actress,9.0,7.041666666666667
+21.0,Athlete,9.0,6.458333333333333
+43.0,Athlete,9.0,6.071428571428571
+45.0,Actor/Actress,9.0,7.285714285714286
+21.0,Singer/Rapper,9.0,7.9375
+30.0,Model,9.0,8.305555555555555
+24.0,TV Personality,9.0,7.6875
+29.0,Singer/Rapper,9.0,8.84
+51.0,Singer/Rapper,9.0,8.184999999999999
+38.0,Actor/Actress,10.0,6.375
+80.0,Astronaut,10.0,4.333333333333333
+32.0,Actor/Actress,10.0,5.90625
+35.0,TV Personality,10.0,5.1
+32.0,TV Personality,10.0,6.916666666666667
+42.0,Model,10.0,7.339285714285714
+40.0,Actor/Actress,10.0,6.796875
+32.0,Athlete,10.0,7.097222222222222
+32.0,Sports Broadcaster,10.0,8.075
+24.0,Athlete,10.0,8.6975
+31.0,Singer/Rapper,10.0,9.045
+58.0,Actor/Actress,11.0,5.0
+57.0,Singer/Rapper,11.0,4.625
+41.0,Comedian,11.0,5.666666666666667
+28.0,TV Personality,11.0,5.625
+76.0,Actor/Actress,11.0,6.375
+25.0,TV Personality,11.0,7.708333333333333
+41.0,Athlete,11.0,7.775862068965517
+39.0,Athlete,11.0,7.212121212121212
+31.0,Singer/Rapper,11.0,8.567567567567568
+19.0,TV Personality,11.0,7.234146341463415
+19.0,Actor/Actress,11.0,8.102439024390243
+50.0,Actor/Actress,11.0,8.71951219512195
+32.0,Radio Personality,12.0,5.0
+46.0,TV Personality,12.0,5.166666666666667
+54.0,Athlete,12.0,6.3125
+31.0,Model,12.0,7.05
+40.0,Athlete,12.0,7.458333333333333
+25.0,TV Personality,12.0,7.068965517241379
+21.0,Singer/Rapper,12.0,7.848484848484849
+49.0,Actor/Actress,12.0,7.837837837837838
+22.0,Actor/Actress,12.0,8.490243902439024
+60.0,Actor/Actress,12.0,7.985365853658536
+35.0,Athlete,12.0,8.721951219512196
+31.0,Athlete,13.0,4.75
+33.0,Actor/Actress,13.0,6.0
+24.0,TV Personality,13.0,7.166666666666667
+43.0,Singer/Rapper,13.0,7.5
+41.0,TV Personality,13.0,6.5
+42.0,TV Personality,13.0,6.291666666666667
+40.0,Actor/Actress,13.0,7.392857142857143
+51.0,TV Personality,13.0,6.96875
+30.0,Athlete,13.0,7.597222222222222
+42.0,Actor/Actress,13.0,8.785
+24.0,TV Personality,13.0,7.904999999999999
+28.0,Actor/Actress,13.0,8.675
+55.0,Athlete,14.0,6.25
+52.0,Actor/Actress,14.0,7.583333333333333
+44.0,Actor/Actress,14.0,7.625
+35.0,Singer/Rapper,14.0,7.15
+67.0,Singer/Rapper,14.0,7.166666666666667
+35.0,Actor/Actress,14.0,8.178571428571429
+20.0,Actor/Actress,14.0,8.4375
+47.0,Actor/Actress,14.0,7.421875
+33.0,TV Personality,14.0,8.833333333333334
+31.0,Actor/Actress,14.0,8.977500000000001
+31.0,Singer/Rapper,14.0,9.2125
+37.0,Athlete,14.0,8.84
+45.0,Model,15.0,5.75
+35.0,Singer/Rapper,15.0,7.25
+36.0,Singer/Rapper,15.0,7.583333333333333
+37.0,Racing Driver,15.0,7.833333333333333
+21.0,TV Personality,15.0,7.117647058823529
+28.0,Actor/Actress,15.0,8.94
+61.0,Actor/Actress,15.0,7.893939393939394
+36.0,Actor/Actress,15.0,9.22121212121212
+30.0,Athlete,15.0,8.902702702702703
+43.0,Athlete,15.0,8.840540540540541
+36.0,Actor/Actress,15.0,8.704878048780488
+20.0,Athlete,15.0,9.151219512195121
+29.0,TV Personality,15.0,9.126829268292683
+56.0,Athlete,16.0,6.0
+48.0,Singer/Rapper,16.0,5.666666666666667
+52.0,TV Personality,16.0,6.25
+50.0,Comedian,16.0,5.5
+26.0,Athlete,16.0,6.458333333333333
+47.0,Comedian,16.0,6.178571428571429
+29.0,TV Personality,16.0,7.09375
+41.0,Actor/Actress,16.0,7.458333333333333
+18.0,Athlete,16.0,8.7625
+28.0,Athlete,16.0,8.385
+16.0,Actor/Actress,16.0,9.0875
+26.0,Singer/Rapper,16.0,9.0125
+41.0,Athlete,17.0,5.875
+57.0,TV Personality,17.0,5.25
+74.0,Actor/Actress,17.0,6.125
+31.0,Singer/Rapper,17.0,8.3
+25.0,TV Personality,17.0,8.25
+28.0,Actor/Actress,17.0,8.40625
+39.0,Actor/Actress,17.0,8.75
+43.0,Actor/Actress,17.0,8.134146341463415
+56.0,Comedian,17.0,7.477777777777778
+27.0,TV Personality,17.0,8.477777777777778
+24.0,Actor/Actress,17.0,8.964444444444446
+27.0,Actor/Actress,17.0,9.066666666666666
+64.0,Athlete,18.0,6.0
+33.0,Athlete,18.0,6.875
+76.0,Actor/Actress,18.0,5.0
+17.0,Singer/Rapper,18.0,8.0
+55.0,Comedian,18.0,7.5
+46.0,TV Personality,18.0,7.878787878787879
+39.0,Actor/Actress,18.0,8.736842105263158
+26.0,Athlete,18.0,9.046511627906977
+23.0,Actor/Actress,18.0,8.936170212765957
+37.0,Actor/Actress,18.0,8.272340425531917
+34.0,Athlete,18.0,9.140425531914895
+27.0,Athlete,18.0,9.404255319148936
+32.0,Athlete,19.0,5.6
+50.0,Radio Personality,19.0,7.1
+51.0,Athlete,19.0,7.133333333333334
+72.0,Fashion Designer,19.0,6.6
+33.0,Actor/Actress,19.0,7.166666666666667
+42.0,Actor/Actress,19.0,7.0285714285714285
+51.0,Racing Driver,19.0,6.15
+53.0,Actor/Actress,19.0,8.488888888888889
+76.0,Comedian,19.0,7.07
+18.0,Social Media Personality,19.0,8.981818181818182
+25.0,Actor/Actress,19.0,8.932727272727274
+17.0,TV Personality,19.0,8.776363636363637
+42.0,Actor/Actress,19.0,9.181818181818182
+39.0,Singer/Rapper,20.0,6.6
+21.0,Model,20.0,5.866666666666666
+25.0,Athlete,20.0,6.75
+68.0,Actor/Actress,20.0,6.68
+70.0,Singer/Rapper,20.0,6.733333333333333
+14.0,Actor/Actress,20.0,8.342857142857143
+52.0,Entrepreneur,20.0,7.3
+33.0,TV Personality,20.0,6.975
+25.0,Athlete,20.0,9.0
+33.0,Motivational Speaker,20.0,7.85
+23.0,Actor/Actress,20.0,9.08
+26.0,Actor/Actress,20.0,8.94
+62.0,Singer/Rapper,21.0,4.625
+43.0,Athlete,21.0,5.5625
+37.0,TV Personality,21.0,5.0625
+71.0,Actor/Actress,21.0,5.5588235294117645
+68.0,TV Personality,21.0,5.796296296296297
+15.0,Social Media Personality,21.0,7.919354838709677
+31.0,Singer/Rapper,21.0,8.085714285714285
+27.0,Actor/Actress,21.0,8.461538461538462
+38.0,Singer/Rapper,21.0,8.320512820512821
+26.0,Actor/Actress,21.0,8.893617021276595
+22.0,Military,21.0,8.082978723404256
+35.0,Singer/Rapper,21.0,8.96808510638298
+17.0,TV Personality,21.0,9.202127659574469
+72.0,Journalist,22.0,4.25
+30.0,Actor/Actress,22.0,5.416666666666667
+52.0,TV Personality,22.0,6.9411764705882355
+53.0,Athlete,22.0,6.423076923076923
+46.0,Actor/Actress,22.0,7.466666666666667
+27.0,Athlete,22.0,7.4
+34.0,Actor/Actress,22.0,8.0
+27.0,Athlete,22.0,7.828947368421052
+42.0,Singer/Rapper,22.0,8.552631578947368
+35.0,News Anchor,22.0,8.528571428571428
+22.0,Athlete,22.0,8.764285714285714
+26.0,Model,22.0,8.721428571428572
+21.0,Actor/Actress,23.0,5.7
+66.0,Politician,23.0,5.466666666666667
+57.0,Singer/Rapper,23.0,6.578947368421052
+48.0,Singer/Rapper,23.0,6.526315789473684
+32.0,Model,23.0,6.785714285714286
+60.0,Actor/Actress,23.0,7.0606060606060606
+32.0,Athlete,23.0,6.918918918918919
+64.0,Actor/Actress,23.0,7.666666666666667
+36.0,TV Personality,23.0,8.217391304347826
+32.0,Singer/Rapper,23.0,8.441176470588236
+30.0,Athlete,23.0,8.472549019607843
+29.0,Racing Driver,23.0,8.888235294117647
+16.0,Athlete,23.0,9.003921568627453
+46.0,Comedian,24.0,4.9
+66.0,Actor/Actress,24.0,5.8
+64.0,Actor/Actress,24.0,5.9
+45.0,Singer/Rapper,24.0,7.04
+30.0,Actor/Actress,24.0,8.366666666666667
+47.0,Athlete,24.0,8.085714285714285
+36.0,TV Personality,24.0,7.228571428571429
+29.0,Athlete,24.0,7.0
+20.0,Athlete,24.0,8.755555555555556
+20.0,Singer/Rapper,24.0,9.014
+40.0,Athlete,24.0,7.776
+32.0,Athlete,24.0,8.792
+68.0,Entrepreneur,25.0,5.25
+47.0,Singer/Rapper,25.0,6.3125
+43.0,Athlete,25.0,6.75
+21.0,Actor/Actress,25.0,7.175
+43.0,Singer/Rapper,25.0,6.72
+33.0,Athlete,25.0,7.810344827586207
+36.0,TV Personality,25.0,7.982758620689655
+43.0,Athlete,25.0,7.666666666666667
+22.0,Athlete,25.0,8.08108108108108
+39.0,TV Personality,25.0,7.821428571428571
+31.0,Actor/Actress,25.0,8.426190476190476
+31.0,Musician,25.0,9.0
+23.0,Actor/Actress,25.0,9.30952380952381
+27.0,Athlete,26.0,6.25
+44.0,Athlete,26.0,6.0
+71.0,Athlete,26.0,6.222222222222222
+21.0,Athlete,26.0,7.555555555555555
+37.0,Athlete,26.0,6.928571428571429
+29.0,Athlete,26.0,7.857142857142857
+25.0,Athlete,26.0,8.642857142857142
+47.0,Athlete,26.0,8.333333333333334
+30.0,Athlete,26.0,8.527777777777779
+28.0,Athlete,26.0,9.222222222222221
+34.0,Comedian,27.0,5.875
+46.0,Athlete,27.0,6.0625
+52.0,Actor/Actress,27.0,6.916666666666667
+25.0,Singer/Rapper,27.0,8.5625
+50.0,Athlete,27.0,7.916666666666667
+58.0,Actor/Actress,27.0,7.089285714285714
+36.0,Athlete,27.0,8.303571428571429
+32.0,TV Personality,27.0,6.171875
+39.0,Actor/Actress,27.0,9.21875
+21.0,Social Media Personality,27.0,8.916666666666666
+27.0,Actor/Actress,27.0,8.722222222222221
+17.0,Actor/Actress,27.0,9.125
+38.0,Radio Personality,27.0,7.416666666666667
+75.0,Singer/Rapper,28.0,5.375
+44.0,Athlete,28.0,5.0
+39.0,Athlete,28.0,4.235294117647059
+21.0,Model,28.0,7.44
+38.0,TV Personality,28.0,6.827586206896552
+55.0,Actor/Actress,28.0,7.424242424242424
+48.0,Politician,28.0,5.7368421052631575
+42.0,Actor/Actress,28.0,8.273809523809524
+24.0,Singer/Rapper,28.0,8.032608695652174
+26.0,Singer/Rapper,28.0,8.576086956521738
+41.0,Actor/Actress,28.0,8.304347826086957
+24.0,TV Personality,28.0,8.33695652173913
+56.0,Athlete,29.0,4.5
+59.0,TV Personality,29.0,4.333333333333333
+51.0,Actor/Actress,29.0,6.0
+41.0,Actor/Actress,29.0,6.55
+36.0,Athlete,29.0,6.708333333333333
+48.0,TV Personality,29.0,7.357142857142857
+41.0,TV Personality,29.0,7.25
+39.0,Actor/Actress,29.0,6.96875
+42.0,Singer/Rapper,29.0,7.638888888888889
+36.0,Athlete,29.0,8.2625
+18.0,Actor/Actress,29.0,7.7125
+48.0,Actor/Actress,29.0,8.25
+45.0,Singer/Rapper,29.0,7.556818181818182
+35.0,Producer,29.0,8.659090909090908
+35.0,TV Personality,29.0,8.568181818181818
+75.0,Actor/Actress,30.0,4.090909090909091
+38.0,TV Personality,30.0,6.357142857142857
+48.0,Actor/Actress,30.0,6.157894736842105
+29.0,Athlete,30.0,6.342105263157895
+47.0,Singer/Rapper,30.0,7.791666666666667
+50.0,TV Personality,30.0,7.293103448275862
+40.0,Athlete,30.0,7.514705882352941
+21.0,Social Media Personality,30.0,8.307692307692308
+36.0,Singer/Rapper,30.0,7.910256410256411
+54.0,Actor/Actress,30.0,8.443181818181818
+18.0,Athlete,30.0,8.375
+39.0,TV Personality,30.0,8.908163265306122
+34.0,Fitness Instructor,30.0,7.928571428571429
+18.0,Social Media Personality,30.0,9.16326530612245
+31.0,Athlete,30.0,7.8979591836734695
+51.0,Actor/Actress,31.0,4.4
+50.0,TV Personality,31.0,5.4
+71.0,Actor/Actress,31.0,5.466666666666667
+61.0,News Anchor,31.0,6.0
+50.0,Actor/Actress,31.0,7.8
+24.0,Actor/Actress,31.0,6.84
+34.0,Singer/Rapper,31.0,6.883333333333334
+32.0,Singer/Rapper,31.0,7.885714285714286
+50.0,Social Media Personality,31.0,8.1625
+34.0,TV Personality,31.0,6.675
+39.0,Actor/Actress,31.0,7.7444444444444445
+32.0,Actor/Actress,31.0,8.1
+40.0,TV Personality,31.0,8.48
+50.0,Comedian,31.0,8.86
+31.0,TV Personality,31.0,9.06
+18.0,Social Media Personality,31.0,9.27
+58.0,Comedian,32.0,4.0
+32.0,Actor/Actress,32.0,5.125
+52.0,Model,32.0,5.0
+38.0,Athlete,32.0,5.882352941176471
+55.0,Actor/Actress,32.0,6.523809523809524
+53.0,TV Personality,32.0,6.1923076923076925
+27.0,Social Media Personality,32.0,7.419354838709677
+68.0,Actor/Actress,32.0,6.722222222222222
+26.0,TV Personality,32.0,6.2439024390243905
+49.0,Actor/Actress,32.0,7.1020408163265305
+27.0,TV Personality,32.0,8.612244897959183
+38.0,TV Personality,32.0,8.744897959183673
+46.0,Singer/Rapper,32.0,8.76530612244898
+17.0,Actor/Actress,32.0,8.89795918367347
